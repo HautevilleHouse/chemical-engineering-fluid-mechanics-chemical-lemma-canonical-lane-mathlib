@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ChemicalEngineeringFluidMechanicsChemicalLemmaCanonicalLaneLean
+
+-- Root module placeholder
+
+end ChemicalEngineeringFluidMechanicsChemicalLemmaCanonicalLaneLean
+end HautevilleHouse

@@ -1,0 +1,9 @@
+import chemical_engineering_fluid_mechanics_chemical_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace chemical_engineering_fluid_mechanics_chemical_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end chemical_engineering_fluid_mechanics_chemical_lemma_canonical_lane_mathlib
+end HautevilleHouse
